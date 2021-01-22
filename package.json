@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Kin + Carta Checkout Technical Test ",
   "scripts": {
-    "test": "jest ./src",
+    "test": "jest --verbose ./src",
     "test:watch": "jest --watch ./src"
   },
   "author": "Thomas Mead",
